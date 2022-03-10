@@ -1,5 +1,6 @@
 module.exports = {
   theme: 'vdoing', // 主题
+  base: 'vuepress-blog/',
   // theme: reco, // 主题
   title: '咸鱼呀',
   description: '个人博客',
