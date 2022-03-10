@@ -43,7 +43,7 @@ module.exports = {
         ],
       },
       { text: '关于', link: '/about/' },
-      { text: '博客', link: 'http://blog.xianyuya.ltd/' }
+      { text: '博客', link: 'https://blog.xianyuya.ltd/' }
     ],
     repo: 's-xianyu/vuepress-blog', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
