@@ -13,6 +13,9 @@
     "vuepress": "^1.9.7"
   },
   "dependencies": {
+    "build": "^0.1.4",
+    "npm": "^9.1.2",
+    "run": "^1.4.0",
     "vuepress-theme-reco": "^1.6.11",
     "vuepress-theme-vdoing": "^1.9.5"
   }
