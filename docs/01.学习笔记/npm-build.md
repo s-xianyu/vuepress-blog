@@ -173,7 +173,7 @@ module.exports = {
   "author": "xianyuya <s22529634@aliyun.com>",
   "license": "MIT", // 开源协议
   // 项目官网的地址
-  "homepage": "http:// blob/xianyuya.ltd/",
+  "homepage": "https://blob/xianyu.bond/",
   // 入口文件，该字段需指向我们最终编译后的包文件
   "main": "lib/woshiyitiaoxianyu-npm.umd.min.js", 
   // 关键字，以空格分离希望用户最终搜索的词或者数组形式

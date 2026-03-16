@@ -2,7 +2,7 @@ module.exports = {
   theme: 'vdoing', // 主题
   // base: '/vuepress-blog/',
   // theme: reco, // 主题
-  title: '咸鱼呀',
+  title: '川枼',
   description: '个人博客',
   themeConfig: {
     nav: [
