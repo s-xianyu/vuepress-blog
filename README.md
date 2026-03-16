@@ -1,7 +1,7 @@
 ## 咸鱼呀-知识库
-> 知识库地址：[note.xianyuya.ltd](http://note.xianyuya.ltd/)
+> 知识库地址：[note.xianyu.bond](https://note.xianyu.bond/)
 > 
-> 博客地址：[blog.xianyu.bond](http://blog.xianyu.bond/)
+> 博客地址：[blog.xianyu.bond](https://blog.xianyu.bond/)
 ----
 本项目基于 [vuepress1.9.7](https://vuepress.vuejs.org/) 搭建
 
